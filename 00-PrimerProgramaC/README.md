@@ -1,5 +1,5 @@
 # TP0 - Primer Programa en C
 
-En este trabajo práctico se desarrollará un primer programa en lenguaje C.
+En este trabajo práctico se desarrollo un primer programa en lenguaje C.
+El cual su objetivo es poder como funciona git bash en vscode, el compilador, etc.
 
-El objetivo es familiarizarse con el proceso de compilación, ejecución y estructura básica de un programa en C utilizando el compilador gcc.cd ..
